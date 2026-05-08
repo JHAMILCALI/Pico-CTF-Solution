@@ -23,8 +23,8 @@ y nos da comentado
 /* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?302945a7} */
 ```
 ### Flags encontradas
-1 = picoCTF{tru3_d3
-2 = t3ct1ve_0r_ju5t
-3 = _lucky?302945a7}
+- 1 = picoCTF{tru3_d3
+- 2 = t3ct1ve_0r_ju5t
+- 3 = _lucky?302945a7}
 
 la flag es **picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?302945a7}**
