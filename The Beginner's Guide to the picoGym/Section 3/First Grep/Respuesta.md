@@ -142,3 +142,5 @@ muestra únicamente la bandera.
 picoCTF{grep_is_good_to_find_things_beD770f5}
 
 ```
+
+Flag encontrada = **picoCTF{grep_is_good_to_find_things_beD770f5}**
